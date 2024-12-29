@@ -68,3 +68,4 @@ print(f"Index of {key}: {result}")
 #     ├── Calculate mid = (6 + 6) // 2 = 6
 #     ├── arr[mid] = 0 == key
 #     └── Return index 6
+
